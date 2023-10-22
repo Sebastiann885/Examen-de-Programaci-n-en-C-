@@ -1,0 +1,7 @@
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\bin\Debug\Sistema_Recursos_Humanos_ExamenI.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\bin\Debug\Sistema_Recursos_Humanos_ExamenI.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\bin\Debug\Sistema_Recursos_Humanos_ExamenI.pdb
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\obj\Debug\Sistema_Recursos_Humanos_ExamenI.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\obj\Debug\Sistema_Recursos_Humanos_ExamenI.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\obj\Debug\Sistema_Recursos_Humanos_ExamenI.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_Recursos_Humanos_ExamenI\Sistema_Recursos_Humanos_ExamenI\obj\Debug\Sistema_Recursos_Humanos_ExamenI.pdb
